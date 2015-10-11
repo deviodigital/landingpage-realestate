@@ -1,13 +1,13 @@
 # Real Estate Landing Page
 
-This is a landing page template built with Bootstrap 3.3.5, created by [Robert DeVore](http://www.robertdevore.com/) for [Devio Digital](http://www.deviodigital.com)
+This is a landing page template built with Bootstrap 3.3.5, created by [Robert DeVore](https://www.robertdevore.com/) for [Devio Digital](http://www.deviodigital.com)
 
 [View Demo](http://www.deviodigital.com/demo/realestate-landingpage)
 
 ### Notes
 
 1. You can change the countdown date by editing the `/js/realestate.js` file on `line 2`
-1. Everything else is pretty straight forward. Edit, use and enjoy!
+2. Everything else is pretty straight forward. Edit, use and enjoy!
 
 ### License
 
