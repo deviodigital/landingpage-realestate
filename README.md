@@ -11,7 +11,7 @@ This is a landing page template built with Bootstrap 3.3.5, created by [Robert D
 
 ### License
 
-cleanblog-child is licensed under GPL v2.0 and is distributed as is.
+This template is licensed under GPL v2.0 and is distributed as is.
 
 ## Development Information
 
